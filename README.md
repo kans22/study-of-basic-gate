@@ -84,6 +84,8 @@ assign c[6]=~a;
 endmodule 
  ```
 **Logic symbol & Truthtable**
+
+
 ![logicsymbol](https://github.com/user-attachments/assets/a48b7a69-1117-4466-84fa-056ced52b20b)
 
 **RTL realization Output:** 
